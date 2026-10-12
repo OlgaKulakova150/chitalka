@@ -1,0 +1,11 @@
+{
+  "from": "en",
+  "to": "ru",
+  "bytes": 48958103,
+  "files": {
+    "glue": "bergamot-translator.js",
+    "wasm": "bergamot-translator.wasm",
+    "model": "model.enru.intgemm.alphas.bin",
+    "vocab": "vocab.enru.spm"
+  }
+}
